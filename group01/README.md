@@ -4,3 +4,5 @@ My solutions to the LeetCode Problems -- https://leetcode.com/problemset/all/.
 
 
 # Table of Contents
+
+1. \<**Easy**>      Two Sum
