@@ -100,4 +100,4 @@ function main() {
     console.log(`${new SinglyLinkedList(head)}`);
 }
 
-main();
+// main();
